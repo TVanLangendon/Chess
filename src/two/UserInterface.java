@@ -21,7 +21,7 @@ import javafx.geometry.Pos;
 public class UserInterface extends Application {
 	
 	
-	public static int TEST_NUMBER = 44;
+
 	public static int TILE_SIZE = 100;
 	public static int WIDTH = 8;
 	public static int HEIGHT = 8;
